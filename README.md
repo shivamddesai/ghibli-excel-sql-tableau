@@ -5,8 +5,7 @@
 ### > 🎯 View the interactive Tableau dashboard here:  
 [🔗 Tableau Public Link](#) https://public.tableau.com/views/StudioGhibliStreamingAnalytics/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-![Dashboard Screenshot](Images/Screenshot 2025-06-24 at 14.08.18.png)
-
+![Dashboard Screenshot](Images/Images/dashboard_screenshot.png)
 ---
 
 ## 📊 Project Overview
