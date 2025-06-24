@@ -1,0 +1,1001 @@
+user_id,age,state,subscription_type
+1,40,Michigan,Premium
+2,58,North Carolina,Family
+3,39,Tennessee,Premium
+4,39,Vermont,Free
+5,23,   Illinois,Free
+6,28,Tennessee,Premium
+7,52,Virginia,Student
+8,49,Mississippi,Student
+9,39,Indiana,Premium
+10,37,Michigan,Free
+11,66,Pennsylvania,Free
+12,36,Arizona,Student
+13,66,Louisiana,Premium
+14,19,Montana,Premium
+15,43,Texas,Free
+16,63,Nebraska,Family
+17,26,Michigan,Family
+18,70,  Utah   ,Free
+19,62,Mississippi,Family
+20,65,Maryland,Premium
+21,14,Kentucky,Family
+22,11,Pennsylvania,Family
+23,63,Oklahoma,Student
+24,13,Kansas,Premium
+25,51,West Virginia,Family
+26,10,Virginia,Family
+27,38,Michigan,Family
+28,55,Washington,Free
+29,39,Wisconsin,Free
+30,52,West Virginia,Student
+31,26,Alaska,Student
+32,64,North Carolina,Free
+33,25,Utah,Free
+34,41,Ohio,Student
+35,69,Utah,Free
+36,63,Utah,Free
+37,70,New Hampshire,Student
+38,70,Alaska,Premium
+39,23,Texas,Free
+40,24,Oklahoma,Student
+41,65,Alabama,Free
+42,64,Maine,Premium
+43,68,Delaware,Family
+44,47,Connecticut,Premium
+45,58,South Dakota,Premium
+46,14,Maryland,Student
+47,28,Vermont,Family
+48,46,Michigan,Premium
+49,67,Delaware,Family
+50,57,Rhode Island,Free
+51,60,Maryland,Free
+52,40,Kansas,Student
+53,64,Hawaii,Premium
+54,51,New Jersey,Student
+55,26,Kentucky,Free
+56,19,Kentucky,Free
+57,30,Oklahoma,Family
+58,15,Virginia,Premium
+59,14,Wyoming,Premium
+60,34,Wyoming,Family
+61,13,Virginia,Premium
+62,39,Iowa,Free
+63,26,California,Family
+64,37,Florida,Family
+65,38,Maine,Family
+66,32,Utah,Student
+67,64,Alabama,Premium
+68,35,Arizona,Family
+69,25,Vermont,Student
+70,62,Utah,Premium
+71,26,Iowa,Student
+72,46,Oregon,Family
+73,35,Wyoming,Free
+74,24,North Dakota,Free
+75,65,Colorado,Family
+76,28,Colorado,Family
+77,40,Kansas,Premium
+78,43,Oregon,Premium
+79,35,Idaho,Premium
+80,29,Tennessee,Family
+81,64,Georgia,Student
+82,34,Hawaii,Student
+83,63,New Hampshire,Free
+84,27,South Carolina,Student
+85,67,Michigan,Family
+86,18,New Jersey,Student
+87,49,Minnesota,Student
+88,56,New Hampshire,Family
+89,39,New York,Family
+90,25,South Dakota,Family
+91,37,Minnesota,Family
+92,70,Nebraska,Free
+93,55,Alaska,Free
+94,28,Alabama,Student
+95,64,New York,Free
+96,29,Alabama,Family
+97,68,South Dakota,Premium
+98,47,Oregon,Premium
+99,43,South Dakota,Family
+100,16,Arizona,Premium
+101,14,New Hampshire,Free
+102,26,Louisiana,Family
+103,62,Maryland,Premium
+104,56,Kentucky,Premium
+105,49,South Dakota,Student
+106,51,Massachusetts,Premium
+107,21,Alabama,Premium
+108,45,Michigan,Student
+109,70,New Mexico,Student
+110,66,Oregon,Free
+111,50,Pennsylvania,Free
+112,48,Virginia,Student
+113,55,New York,Student
+114,23,Wisconsin,Student
+115,20,South Dakota,Student
+116,51,Wisconsin,Family
+117,19,Washington,Family
+118,28,Wyoming,Student
+119,32,Oregon,Family
+120,56,Texas,Free
+121,39,Utah,Family
+122,62,Florida,Free
+123,19,Arkansas,Family
+124,55,Georgia,Premium
+125,47,Connecticut,Student
+126,24,New York,Family
+127,10,Montana,Free
+128,61,Tennessee,Family
+129,43,Florida,Premium
+130,54,Texas,Family
+131,45,Florida,Free
+132,47,North Dakota,Family
+133,66,Alaska,Student
+134,59,Mississippi,Family
+135,42,Kentucky,Premium
+136,28,Indiana,Premium
+137,30,Michigan,Family
+138,61,Maine,Student
+139,58,Rhode Island,Family
+140,13,North Dakota,Premium
+141,69,Virginia,Premium
+142,63,South Dakota,Family
+143,53,Virginia,Free
+144,41,New York,Student
+145,15,Utah,Family
+146,21,Montana,Student
+147,38,New Jersey,Student
+148,62,West Virginia,Free
+149,34,Missouri,Student
+150,27,Illinois,Free
+151,14,Arizona,Student
+152,67,Hawaii,Free
+153,60,Virginia,Free
+154,41,Hawaii,Student
+155,70,Connecticut,Free
+156,23,Washington,Premium
+157,28,Alaska,Family
+158,11,Kentucky,Free
+159,60,Vermont,Premium
+160,49,Arkansas,Family
+161,37,Kentucky,Free
+162,35,Rhode Island,Free
+163,33,West Virginia,Student
+164,11,Alaska,Student
+165,38,Maryland,Free
+166,34,Maine,Free
+167,33,Minnesota,Free
+168,29,New Mexico,Premium
+169,60,Massachusetts,Student
+170,70,Mississippi,Premium
+171,18,Colorado,Free
+172,57,Pennsylvania,Family
+173,33,Georgia,Family
+174,41,Wyoming,Free
+175,51,Arizona,Family
+176,50,Tennessee,Premium
+177,53,Pennsylvania,Family
+178,26,Iowa,Student
+179,34,South Dakota,Family
+180,29,Florida,Premium
+181,31,Florida,Student
+182,18,North Dakota,Family
+183,58,Louisiana,Family
+184,58,Virginia,Family
+185,67,Pennsylvania,Student
+186,49,North Carolina,Premium
+187,69,Nevada,Family
+188,20,West Virginia,Premium
+189,43,New Jersey,Family
+190,18,Iowa,Premium
+191,29,Colorado,Premium
+192,34,New Mexico,Premium
+193,28,Colorado,Premium
+194,67,Vermont,Free
+195,53,South Dakota,Premium
+196,53,Louisiana,Premium
+197,50,Missouri,Premium
+198,66,Tennessee,Family
+199,21,Florida,Family
+200,16,Wyoming,Premium
+201,12,Montana,Student
+202,34,Hawaii,Free
+203,59,Illinois,Free
+204,43,Mississippi,Free
+205,48,Minnesota,Free
+206,23,Alabama,Family
+207,66,Illinois,Family
+208,21,Texas,Free
+209,61,California,Student
+210,17,Idaho,Premium
+211,12,Maine,Family
+212,61,Oregon,Premium
+213,16,Arizona,Free
+214,60,Indiana,Free
+215,26,Illinois,Free
+216,17,Mississippi,Free
+217,28,Oregon,Family
+218,18,Connecticut,Family
+219,18,New Hampshire,Free
+220,27,New York,Family
+221,65,Wisconsin,Student
+222,14,South Dakota,Free
+223,29,Kansas,Student
+224,62,Oklahoma,Free
+225,39,Kansas,Premium
+226,57,Alaska,Premium
+227,48,New Hampshire,Family
+228,11,Vermont,Premium
+229,36,Hawaii,Premium
+230,65,Wisconsin,Premium
+231,34,Nebraska,Free
+232,14,Iowa,Family
+233,64,Minnesota,Family
+234,51,Nevada,Premium
+235,17,Connecticut,Family
+236,68,Idaho,Free
+237,61,New York,Family
+238,18,Wisconsin,Family
+239,22,Arizona,Premium
+240,35,Minnesota,Free
+241,70,Wisconsin,Family
+242,53,Florida,Free
+243,23,Vermont,Premium
+244,61,New York,Premium
+245,56,Arizona,Premium
+246,17,New York,Premium
+247,16,Missouri,Student
+248,10,Michigan,Family
+249,44,Oklahoma,Free
+250,67,Indiana,Free
+251,37,Louisiana,Free
+252,13,New Hampshire,Student
+253,38,Oklahoma,Student
+254,31,Missouri,Family
+255,34,Ohio,Family
+256,15,South Carolina,Free
+257,68,Alaska,Free
+258,18,Kansas,Family
+259,50,North Carolina,Student
+260,66,Michigan,Student
+261,42,Louisiana,Family
+262,36,Alaska,Student
+263,48,Indiana,Free
+264,59,Michigan,Family
+265,36,Michigan,Student
+266,16,New Mexico,Premium
+267,53,Indiana,Family
+268,49,Connecticut,Premium
+269,18,Montana,Premium
+270,54,Delaware,Family
+271,43,New York,Student
+272,27,Missouri,Student
+273,12,Nebraska,Student
+274,16,Colorado,Premium
+275,14,South Carolina,Premium
+276,69,Nebraska,Free
+277,13,Florida,Premium
+278,30,Delaware,Family
+279,21,Maine,Student
+280,70,Oregon,Premium
+281,30,Oklahoma,Family
+282,37,Alaska,Premium
+283,26,West Virginia,Student
+284,15,Connecticut,Free
+285,33,New Mexico,Family
+286,54,Florida,Premium
+287,33,Louisiana,Student
+288,48,Michigan,Student
+289,52,Washington,Free
+290,67,Washington,Family
+291,42,Missouri,Family
+292,20,South Dakota,Free
+293,16,Missouri,Premium
+294,68,South Dakota,Family
+295,19,Arkansas,Free
+296,43,New Jersey,Student
+297,51,Alabama,Premium
+298,54,Tennessee,Premium
+299,24,Wyoming,Student
+300,21,Alabama,Premium
+301,18,Kansas,Student
+302,23,Massachusetts,Student
+303,17,Michigan,Family
+304,66,Montana,Premium
+305,39,Washington,Premium
+306,12,Delaware,Free
+307,54,Oklahoma,Family
+308,64,Oklahoma,Family
+309,16,South Carolina,Premium
+310,20,South Dakota,Free
+311,10,Colorado,Free
+312,36,Oklahoma,Family
+313,57,Oregon,Family
+314,51,Maine,Family
+315,68,Maryland,Student
+316,58,Delaware,Family
+317,52,Oregon,Family
+318,28,Oregon,Family
+319,47,Arizona,Premium
+320,57,Nevada,Premium
+321,66,Illinois,Premium
+322,46,Michigan,Student
+323,12,Minnesota,Family
+324,22,Hawaii,Free
+325,29,Maryland,Student
+326,52,Florida,Premium
+327,55,Maine,Student
+328,67,Nebraska,Student
+329,23,Oklahoma,Student
+330,39,Connecticut,Family
+331,41,Maine,Student
+332,10,Rhode Island,Premium
+333,40,California,Family
+334,24,Montana,Free
+335,14,North Dakota,Premium
+336,28,Iowa,Premium
+337,14,Louisiana,Free
+338,34,Delaware,Free
+339,26,Tennessee,Family
+340,35,Colorado,Family
+341,21,Arizona,Family
+342,44,Minnesota,Student
+343,53,Oklahoma,Premium
+344,32,Illinois,Student
+345,56,Virginia,Premium
+346,39,Rhode Island,Family
+347,66,Alaska,Premium
+348,16,Pennsylvania,Student
+349,23,Michigan,Premium
+350,19,Louisiana,Free
+351,30,South Dakota,Family
+352,61,Louisiana,Family
+353,13,Georgia,Premium
+354,33,North Dakota,Free
+355,65,Missouri,Student
+356,61,Iowa,Premium
+357,60,Maryland,Premium
+358,43,Idaho,Student
+359,30,Delaware,Student
+360,61,Maryland,Free
+361,60,Connecticut,Free
+362,42,Louisiana,Premium
+363,50,New Jersey,Student
+364,12,Illinois,Student
+365,17,Massachusetts,Free
+366,17,Louisiana,Free
+367,51,Ohio,Family
+368,31,Virginia,Premium
+369,11,Vermont,Premium
+370,23,Texas,Student
+371,52,Connecticut,Family
+372,67,Michigan,Free
+373,10,North Dakota,Family
+374,18,Mississippi,Premium
+375,42,Massachusetts,Student
+376,20,Florida,Free
+377,61,South Carolina,Premium
+378,45,Kansas,Student
+379,54,Connecticut,Family
+380,38,Minnesota,Free
+381,25,Pennsylvania,Premium
+382,64,Kansas,Premium
+383,62,Massachusetts,Family
+384,53,Alabama,Free
+385,63,Minnesota,Free
+386,53,Texas,Premium
+387,44,Hawaii,Family
+388,29,Ohio,Premium
+389,24,Maryland,Student
+390,69,Georgia,Family
+391,60,Michigan,Premium
+392,13,Minnesota,Premium
+393,12,Pennsylvania,Family
+394,61,South Carolina,Premium
+395,27,North Dakota,Family
+396,57,Maine,Premium
+397,24,Idaho,Premium
+398,39,Wisconsin,Free
+399,59,New Mexico,Student
+400,13,Kansas,Free
+401,36,Tennessee,Free
+402,45,Missouri,Premium
+403,13,Oklahoma,Family
+404,59,North Carolina,Family
+405,49,Utah,Student
+406,41,Nebraska,Family
+407,17,Connecticut,Free
+408,12,South Carolina,Free
+409,67,Massachusetts,Free
+410,43,North Carolina,Student
+411,70,Massachusetts,Student
+412,66,Washington,Student
+413,15,South Carolina,Free
+414,48,Massachusetts,Family
+415,58,Hawaii,Family
+416,54,Florida,Student
+417,36,Hawaii,Student
+418,39,Ohio,Premium
+419,32,Tennessee,Premium
+420,42,South Carolina,Student
+421,40,Arkansas,Premium
+422,54,Colorado,Student
+423,26,Connecticut,Free
+424,54,New Hampshire,Premium
+425,30,Nevada,Premium
+426,34,Iowa,Premium
+427,14,Iowa,Premium
+428,25,Louisiana,Family
+429,19,Illinois,Free
+430,32,Nevada,Family
+431,29,Nevada,Premium
+432,16,Montana,Free
+433,36,California,Free
+434,37,South Dakota,Family
+435,35,Virginia,Premium
+436,54,North Carolina,Free
+437,60,New York,Free
+438,50,North Carolina,Free
+439,51,Maine,Student
+440,10,North Carolina,Free
+441,51,Tennessee,Student
+442,54,Nevada,Premium
+443,45,Arizona,Free
+444,21,South Dakota,Premium
+445,69,Maryland,Family
+446,25,Mississippi,Premium
+447,67,Missouri,Free
+448,32,Illinois,Student
+449,46,Hawaii,Family
+450,59,Massachusetts,Premium
+451,60,Tennessee,Free
+452,60,Tennessee,Family
+453,11,West Virginia,Premium
+454,44,Kansas,Free
+455,64,Louisiana,Free
+456,23,Alabama,Free
+457,59,Wisconsin,Family
+458,25,South Carolina,Free
+459,33,Alaska,Student
+460,40,Mississippi,Premium
+461,31,Louisiana,Free
+462,18,Florida,Student
+463,44,Maryland,Free
+464,66,Georgia,Student
+465,49,Oklahoma,Student
+466,34,Wyoming,Free
+467,68,Maryland,Student
+468,56,Nebraska,Student
+469,41,Michigan,Family
+470,50,California,Family
+471,51,Illinois,Family
+472,30,Montana,Student
+473,68,Montana,Family
+474,32,Alabama,Free
+475,21,Idaho,Student
+476,25,Maryland,Premium
+477,27,Indiana,Student
+478,18,Alaska,Free
+479,37,Arkansas,Student
+480,18,Wisconsin,Free
+481,14,Alaska,Free
+482,20,Washington,Free
+483,47,Georgia,Free
+484,54,New Mexico,Family
+485,31,Mississippi,Premium
+486,67,Kentucky,Student
+487,35,Iowa,Free
+488,58,Idaho,Family
+489,51,Montana,Student
+490,29,Florida,Free
+491,52,West Virginia,Family
+492,24,South Carolina,Family
+493,45,Mississippi,Free
+494,21,Wisconsin,Family
+495,38,West Virginia,Family
+496,33,Pennsylvania,Family
+497,10,Arkansas,Free
+498,68,Connecticut,Free
+499,63,Kentucky,Premium
+500,34,Pennsylvania,Family
+501,64,Rhode Island,Student
+502,48,Hawaii,Family
+503,14,Montana,Premium
+504,54,Colorado,Premium
+505,18,Nebraska,Premium
+506,14,North Dakota,Premium
+507,52,Washington,Family
+508,27,Connecticut,Family
+509,49,Minnesota,Family
+510,54,Wyoming,Premium
+511,26,Massachusetts,Free
+512,15,Tennessee,Family
+513,50,Wyoming,Premium
+514,27,Wyoming,Premium
+515,56,Connecticut,Free
+516,19,North Dakota,Premium
+517,50,Kentucky,Free
+518,55,Wisconsin,Student
+519,27,Maryland,Student
+520,27,Texas,Premium
+521,16,Arkansas,Student
+522,20,Alabama,Student
+523,65,Connecticut,Free
+524,60,Massachusetts,Student
+525,13,Minnesota,Premium
+526,16,New Mexico,Premium
+527,61,Maine,Free
+528,65,Florida,Family
+529,57,Nevada,Premium
+530,44,Kentucky,Family
+531,13,Indiana,Student
+532,70,Hawaii,Premium
+533,12,New York,Student
+534,45,Wisconsin,Premium
+535,36,Connecticut,Family
+536,30,Oklahoma,Premium
+537,51,Rhode Island,Family
+538,39,California,Student
+539,65,Hawaii,Premium
+540,27,Wisconsin,Premium
+541,36,Maine,Premium
+542,20,New Hampshire,Premium
+543,28,North Dakota,Free
+544,60,Tennessee,Family
+545,30,Nevada,Premium
+546,18,Wyoming,Premium
+547,59,Pennsylvania,Student
+548,43,Illinois,Premium
+549,39,Washington,Family
+550,39,Alaska,Student
+551,27,Vermont,Premium
+552,25,Mississippi,Premium
+553,64,Alabama,Premium
+554,47,Maine,Student
+555,65,Montana,Student
+556,42,Rhode Island,Free
+557,53,Indiana,Free
+558,62,New York,Free
+559,62,Missouri,Premium
+560,56,Minnesota,Student
+561,37,Idaho,Premium
+562,34,Nebraska,Premium
+563,49,Colorado,Family
+564,17,Georgia,Premium
+565,56,Nebraska,Premium
+566,56,Utah,Premium
+567,22,Kansas,Free
+568,39,Oregon,Student
+569,59,California,Student
+570,35,Iowa,Family
+571,31,New York,Premium
+572,50,Massachusetts,Family
+573,32,Idaho,Premium
+574,40,Louisiana,Student
+575,29,West Virginia,Student
+576,47,Iowa,Family
+577,61,Connecticut,Free
+578,22,Illinois,Student
+579,34,Maine,Free
+580,60,North Dakota,Free
+581,52,Hawaii,Premium
+582,23,Vermont,Family
+583,16,New Mexico,Student
+584,30,New York,Free
+585,38,Virginia,Premium
+586,27,Kansas,Family
+587,56,Wisconsin,Family
+588,55,Maine,Free
+589,42,Missouri,Student
+590,27,Alabama,Family
+591,33,Illinois,Premium
+592,70,Michigan,Family
+593,45,Minnesota,Premium
+594,61,South Carolina,Premium
+595,55,New Jersey,Family
+596,41,Oregon,Family
+597,43,Ohio,Student
+598,50,West Virginia,Premium
+599,37,Maine,Premium
+600,50,Illinois,Family
+601,22,Missouri,Family
+602,33,Utah,Free
+603,23,North Carolina,Family
+604,59,Alaska,Premium
+605,12,Alaska,Family
+606,52,Michigan,Free
+607,56,Delaware,Free
+608,69,California,Premium
+609,23,Kansas,Student
+610,38,Massachusetts,Student
+611,38,Georgia,Family
+612,63,Washington,Premium
+613,42,Michigan,Student
+614,45,Louisiana,Premium
+615,38,Kentucky,Premium
+616,70,Connecticut,Premium
+617,67,Nebraska,Premium
+618,67,Nevada,Free
+619,24,Indiana,Premium
+620,67,Kentucky,Family
+621,39,Hawaii,Premium
+622,60,Nebraska,Family
+623,67,Montana,Family
+624,21,West Virginia,Student
+625,29,Ohio,Student
+626,58,Idaho,Free
+627,13,South Dakota,Student
+628,23,Massachusetts,Premium
+629,62,California,Free
+630,32,Alaska,Free
+631,42,Missouri,Family
+632,25,New York,Premium
+633,50,Maine,Free
+634,38,North Carolina,Free
+635,21,South Carolina,Premium
+636,55,Kentucky,Premium
+637,34,Maryland,Family
+638,64,West Virginia,Student
+639,17,Virginia,Family
+640,11,Arizona,Student
+641,40,Georgia,Premium
+642,15,South Carolina,Student
+643,42,New York,Student
+644,69,Texas,Premium
+645,18,Oregon,Family
+646,58,Arkansas,Family
+647,19,Washington,Student
+648,66,Kansas,Family
+649,30,South Dakota,Free
+650,51,Arizona,Family
+651,70,Utah,Free
+652,54,California,Family
+653,53,Rhode Island,Family
+654,22,Nevada,Family
+655,37,Connecticut,Premium
+656,28,Pennsylvania,Student
+657,52,Maryland,Premium
+658,33,Vermont,Free
+659,16,Texas,Free
+660,13,Washington,Family
+661,62,Kentucky,Student
+662,44,Kentucky,Family
+663,40,Maryland,Free
+664,42,Montana,Free
+665,22,Mississippi,Student
+666,47,California,Premium
+667,26,Connecticut,Premium
+668,58,Florida,Premium
+669,21,Wisconsin,Family
+670,32,Florida,Premium
+671,22,Ohio,Premium
+672,53,Colorado,Family
+673,17,Mississippi,Family
+674,31,Wyoming,Student
+675,10,Wyoming,Free
+676,62,Utah,Family
+677,57,Oklahoma,Family
+678,52,Wisconsin,Premium
+679,55,Missouri,Family
+680,18,Massachusetts,Student
+681,22,Hawaii,Premium
+682,33,Kentucky,Student
+683,62,Montana,Premium
+684,52,Maine,Free
+685,21,Ohio,Free
+686,47,Georgia,Free
+687,57,Florida,Premium
+688,64,North Carolina,Free
+689,39,Iowa,Free
+690,31,Florida,Free
+691,69,West Virginia,Student
+692,11,Virginia,Student
+693,48,Mississippi,Free
+694,27,Louisiana,Premium
+695,36,Maryland,Premium
+696,43,Oregon,Family
+697,42,Vermont,Free
+698,51,Massachusetts,Premium
+699,52,North Carolina,Family
+700,61,Indiana,Student
+701,44,Texas,Student
+702,33,Kentucky,Family
+703,45,Arkansas,Student
+704,31,Delaware,Free
+705,44,Tennessee,Free
+706,49,West Virginia,Family
+707,69,Wyoming,Premium
+708,10,Missouri,Free
+709,24,Kentucky,Family
+710,18,Massachusetts,Family
+711,59,Vermont,Premium
+712,13,Kentucky,Free
+713,30,Michigan,Free
+714,53,Maryland,Family
+715,11,Washington,Family
+716,63,Maine,Student
+717,68,Missouri,Family
+718,45,New Mexico,Family
+719,30,California,Student
+720,19,Louisiana,Family
+721,49,Oregon,Premium
+722,15,Iowa,Premium
+723,21,Mississippi,Premium
+724,49,Nebraska,Free
+725,35,Washington,Family
+726,45,Wisconsin,Premium
+727,35,Massachusetts,Premium
+728,37,Tennessee,Premium
+729,42,Mississippi,Free
+730,68,Kansas,Family
+731,61,Ohio,Family
+732,20,Maryland,Family
+733,25,New Mexico,Student
+734,16,New Mexico,Student
+735,59,New Hampshire,Family
+736,59,Oregon,Family
+737,21,Maine,Student
+738,20,Georgia,Family
+739,49,New Hampshire,Premium
+740,64,North Dakota,Premium
+741,28,Idaho,Free
+742,50,Florida,Free
+743,59,Vermont,Free
+744,11,Florida,Premium
+745,64,North Carolina,Family
+746,38,Kentucky,Premium
+747,60,Michigan,Family
+748,69,New Hampshire,Free
+749,57,Hawaii,Student
+750,38,Georgia,Student
+751,67,Missouri,Family
+752,38,Vermont,Family
+753,42,West Virginia,Free
+754,18,Washington,Premium
+755,25,North Carolina,Family
+756,65,South Dakota,Free
+757,50,Alaska,Premium
+758,33,Montana,Premium
+759,51,Louisiana,Family
+760,42,Tennessee,Student
+761,67,Massachusetts,Family
+762,25,New York,Family
+763,29,Massachusetts,Free
+764,47,Oklahoma,Student
+765,26,Texas,Student
+766,61,Minnesota,Free
+767,26,New Jersey,Student
+768,58,Ohio,Free
+769,50,Oklahoma,Premium
+770,31,Mississippi,Premium
+771,55,Oklahoma,Free
+772,55,Utah,Student
+773,47,Maine,Family
+774,68,Maine,Student
+775,51,Florida,Student
+776,15,Colorado,Family
+777,32,Vermont,Free
+778,30,Utah,Student
+779,62,Pennsylvania,Premium
+780,67,North Carolina,Premium
+781,29,Pennsylvania,Family
+782,13,Tennessee,Free
+783,55,Wisconsin,Premium
+784,31,New York,Family
+785,59,Indiana,Free
+786,51,Oklahoma,Free
+787,65,Massachusetts,Family
+788,48,Florida,Student
+789,49,Alabama,Family
+790,45,Delaware,Family
+791,24,Pennsylvania,Student
+792,15,Kansas,Family
+793,51,New Hampshire,Student
+794,56,Oklahoma,Family
+795,30,New Mexico,Premium
+796,60,Utah,Free
+797,44,South Dakota,Free
+798,59,Alaska,Student
+799,38,Louisiana,Free
+800,34,Missouri,Premium
+801,43,Texas,Free
+802,35,Missouri,Family
+803,57,Nebraska,Student
+804,55,Arkansas,Premium
+805,13,Connecticut,Student
+806,22,North Dakota,Premium
+807,31,New Mexico,Family
+808,25,Ohio,Premium
+809,48,Michigan,Free
+810,26,Hawaii,Student
+811,56,Colorado,Free
+812,48,Arkansas,Free
+813,56,West Virginia,Family
+814,38,Alaska,Premium
+815,50,Virginia,Family
+816,40,Connecticut,Free
+817,46,Connecticut,Free
+818,10,New Mexico,Free
+819,57,North Dakota,Premium
+820,64,Arkansas,Family
+821,63,New Mexico,Family
+822,36,New Mexico,Family
+823,21,Alabama,Premium
+824,61,New Hampshire,Student
+825,52,West Virginia,Family
+826,45,Minnesota,Free
+827,33,Maine,Student
+828,43,Utah,Family
+829,16,Colorado,Premium
+830,52,Indiana,Family
+831,57,Minnesota,Student
+832,48,Minnesota,Student
+833,24,South Dakota,Family
+834,18,Vermont,Free
+835,65,Kansas,Student
+836,44,Wisconsin,Premium
+837,41,Alaska,Premium
+838,32,New York,Free
+839,68,South Dakota,Family
+840,58,Michigan,Family
+841,20,Georgia,Free
+842,63,Indiana,Premium
+843,11,North Dakota,Premium
+844,26,Florida,Family
+845,15,California,Student
+846,46,Utah,Family
+847,19,Pennsylvania,Family
+848,26,Massachusetts,Free
+849,38,South Dakota,Student
+850,55,Texas,Premium
+851,50,Massachusetts,Student
+852,62,Alaska,Premium
+853,68,West Virginia,Free
+854,27,Oklahoma,Premium
+855,45,Vermont,Free
+856,49,Nebraska,Student
+857,33,New York,Family
+858,28,Ohio,Student
+859,58,Utah,Premium
+860,16,Maryland,Family
+861,28,Virginia,Family
+862,49,Vermont,Family
+863,19,Louisiana,Free
+864,29,Oklahoma,Free
+865,23,Mississippi,Student
+866,14,Texas,Student
+867,16,Kansas,Family
+868,53,Maryland,Premium
+869,14,Delaware,Premium
+870,10,Wyoming,Student
+871,43,Texas,Student
+872,43,Louisiana,Student
+873,67,North Dakota,Premium
+874,36,Maryland,Student
+875,64,Nevada,Student
+876,21,Alabama,Student
+877,69,Arizona,Student
+878,43,Oregon,Student
+879,51,Indiana,Premium
+880,41,Oklahoma,Free
+881,19,Delaware,Student
+882,60,Massachusetts,Family
+883,43,North Carolina,Family
+884,23,Delaware,Family
+885,64,Colorado,Student
+886,67,Colorado,Family
+887,47,Michigan,Family
+888,32,Michigan,Family
+889,29,Kansas,Student
+890,36,Maryland,Premium
+891,68,Arkansas,Family
+892,45,South Dakota,Premium
+893,19,Utah,Student
+894,15,North Dakota,Family
+895,13,Alaska,Free
+896,15,Ohio,Family
+897,67,Washington,Premium
+898,40,Oregon,Family
+899,55,Hawaii,Family
+900,37,New Jersey,Family
+901,22,Rhode Island,Free
+902,48,North Dakota,Family
+903,59,Massachusetts,Free
+904,61,Wisconsin,Family
+905,18,Missouri,Free
+906,18,Kansas,Premium
+907,12,South Dakota,Family
+908,67,Mississippi,Family
+909,18,Delaware,Student
+910,51,Arkansas,Premium
+911,69,Mississippi,Free
+912,48,Vermont,Free
+913,50,South Carolina,Student
+914,13,Idaho,Student
+915,65,Nebraska,Family
+916,26,Hawaii,Premium
+917,35,Kansas,Family
+918,16,South Dakota,Family
+919,15,Florida,Premium
+920,49,Oklahoma,Family
+921,59,Missouri,Premium
+922,11,Idaho,Free
+923,59,Alaska,Student
+924,16,Arkansas,Student
+925,46,Wisconsin,Student
+926,55,Maine,Family
+927,46,Missouri,Premium
+928,51,Florida,Student
+929,44,Massachusetts,Premium
+930,31,New York,Premium
+931,69,Ohio,Student
+932,70,North Dakota,Free
+933,19,Connecticut,Premium
+934,57,Kansas,Family
+935,55,Vermont,Free
+936,32,Arizona,Family
+937,44,South Dakota,Premium
+938,41,Hawaii,Premium
+939,28,Colorado,Free
+940,64,Illinois,Family
+941,15,Pennsylvania,Student
+942,56,Idaho,Premium
+943,36,South Carolina,Student
+944,35,North Dakota,Family
+945,38,North Carolina,Free
+946,60,Texas,Family
+947,30,Wyoming,Premium
+948,34,South Carolina,Family
+949,43,Vermont,Student
+950,54,Alaska,Premium
+951,16,Maine,Free
+952,45,Missouri,Free
+953,69,Arkansas,Free
+954,13,Louisiana,Free
+955,42,Tennessee,Family
+956,47,Virginia,Family
+957,20,Pennsylvania,Student
+958,27,Rhode Island,Student
+959,27,Massachusetts,Premium
+960,46,Kentucky,Student
+961,38,Washington,Family
+962,55,South Dakota,Free
+963,20,West Virginia,Student
+964,65,Montana,Free
+965,14,Maine,Student
+966,59,Oregon,Free
+967,21,Louisiana,Premium
+968,41,Wisconsin,Free
+969,26,Nevada,Family
+970,14,Georgia,Student
+971,26,North Dakota,Free
+972,64,New York,Premium
+973,30,Kentucky,Family
+974,17,Minnesota,Premium
+975,53,Nebraska,Premium
+976,19,West Virginia,Student
+977,42,Nebraska,Premium
+978,13,North Dakota,Free
+979,62,Arkansas,Family
+980,64,Alabama,Free
+981,54,Washington,Family
+982,40,Washington,Premium
+983,37,Wisconsin,Free
+984,14,Delaware,Premium
+985,41,Ohio,Premium
+986,37,West Virginia,Family
+987,13,Utah,Family
+988,26,Maryland,Student
+989,14,Arizona,Family
+990,64,Kentucky,Premium
+991,38,Tennessee,Student
+992,68,Vermont,Free
+993,60,Indiana,Free
+994,63,Maine,Student
+995,45,Iowa,Family
+996,30,Pennsylvania,Free
+997,41,Louisiana,Family
+998,65,Delaware,Free
+999,10,Alabama,Premium
+1000,39,Hawaii,Family
