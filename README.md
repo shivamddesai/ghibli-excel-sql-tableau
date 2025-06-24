@@ -95,8 +95,3 @@ The following datasets were used:
 - ✅ `README.md`: Full project documentation including objectives, tools, methodology, and key insights
 
 ---
-
-## 👋 About the Author
-
-I'm a data analyst passionate about storytelling through data.  
-Connect with me on [LinkedIn](#) or check out more projects on [GitHub](#).
