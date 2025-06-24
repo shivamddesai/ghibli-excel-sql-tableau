@@ -3,7 +3,7 @@
 **An end-to-end data analytics project using Excel, SQL & Tableau**
 
 ### > 🎯 View the interactive Tableau dashboard here:  
-> [🔗 Tableau Public Link](#) *(Replace with your actual URL)*
+> [🔗 Tableau Public Link](#) https://public.tableau.com/views/StudioGhibliStreamingAnalytics/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
